@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#This is the code for the USACO 2017 Bronze Contest of December Problem 3
 using namespace std;
 
 int main() {
